@@ -1,6 +1,6 @@
 # Cosmina-OS
 Simple, learning-mode custom "OS", BIOS boot-loadable, e.g. from an IDE drive imported from `boot.bin` file added to an ISA-only PC.
-Tested within [UTM Virtual Machines](https://apps.apple.com/app/utm-virtual-machines/id1538878817) app on macOS on a MacBook with Apple Silicon (M1).
+Tested with [UTM Virtual Machines](https://apps.apple.com/app/utm-virtual-machines/id1538878817) app on macOS, using a MacBook with Apple Silicon (M1).
 
 How to assemble `boot.bin`; requires `nasm`:
 
